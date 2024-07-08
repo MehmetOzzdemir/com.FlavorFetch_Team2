@@ -1,5 +1,5 @@
 # com.FlavorFetch
-### Örnek Read Me Dosyası
+### Örnek Reaad Me Dosyası
 ### 
 ***
 
